@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "BIZA-AAAA-BBBB-CCCC",
+      "expiry": "2026-12-31",
+      "hwid": "",
+      "note": "Customer 1 - not activated"
+    },
+    {
+      "key": "BIZA-DDDD-EEEE-FFFF",
+      "expiry": "2027-06-30",
+      "hwid": "abc123def456...",
+      "note": "Customer 2 - HWID locked"
+    }
+  ]
+}
