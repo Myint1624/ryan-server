@@ -3,14 +3,14 @@
     {
       "key": "BIZA-RYAN-2026-VIP1",
       "expiry": "2027-12-31",
-      "hwid": "1a126b25a653283af98f23b1bb391d800656680ee078c3",
-      "note": "Owner key - HWID locked"
+      "hwid": "",
+      "note": "Owner key - HWID free"
     },
     {
       "key": "BIZA-TEST-0001-FREE",
       "expiry": "2026-12-31",
       "hwid": "",
-      "note": "Test key - unlimited"
+      "note": "Test key"
     }
   ]
 }
