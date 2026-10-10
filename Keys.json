@@ -1,16 +1,16 @@
 {
   "keys": [
     {
-      "key": "BIZA-AAAA-BBBB-CCCC",
-      "expiry": "2026-12-31",
+      "key": "BIZA-RYAN-2026-VIP1",
+      "expiry": "2027-12-31",
       "hwid": "1a126b25a653283af98f23b1bb391d800656680ee078c3",
-      "note": "Customer 1 - not activated"
+      "note": "Owner key - HWID locked"
     },
     {
-      "key": "BIZA-DDDD-EEEE-FFFF",
-      "expiry": "2027-06-30",
-      "hwid": "abc123def456...",
-      "note": "Customer 2 - HWID locked"
+      "key": "BIZA-TEST-0001-FREE",
+      "expiry": "2026-12-31",
+      "hwid": "",
+      "note": "Test key - unlimited"
     }
   ]
 }
